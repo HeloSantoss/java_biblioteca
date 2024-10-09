@@ -1,0 +1,24 @@
+https://abre.ai/lehr
+documentação em makdown 
+obs studio - video
+tamanho max arq de video 100mb
+
+Link do Github do Projeto:
+- Documento tecnico 
+- manual usuario
+- teste unitarios
+
+
+1- adicionar img - ok
+2- gerar relatorio - ok
+3- tratamento de erros - ok
+4-comentario no código - ok 
+5-documentação - VIDEO
+explique o funcionamento técnico do sistema
+incluindo a arquitetura
+diagrama de classes
+diagrama de sequência
+explicação dos principais módulos.(README.md)
+
+6- manual de instruções
+7- video de até 100mb
