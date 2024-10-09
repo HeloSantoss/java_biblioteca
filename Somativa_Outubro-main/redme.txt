@@ -15,10 +15,10 @@ Link do Github do Projeto:
 4-comentario no código - ok 
 5-documentação - VIDEO
 explique o funcionamento técnico do sistema
-incluindo a arquitetura
-diagrama de classes
-diagrama de sequência
-explicação dos principais módulos.(README.md)
+incluindo a arquitetura - ok
+diagrama de classes - ok
+diagrama de sequência - ok
+explicação dos principais módulos.(README.md) - ok
 
 6- manual de instruções
 7- video de até 100mb
